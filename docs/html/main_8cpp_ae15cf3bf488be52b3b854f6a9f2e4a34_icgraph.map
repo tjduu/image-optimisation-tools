@@ -1,0 +1,9 @@
+<map id="displayImageBlurMenu" name="displayImageBlurMenu">
+<area shape="rect" id="Node000001" title=" " alt="" coords="510,5,664,31"/>
+<area shape="rect" id="Node000002" href="$main_8cpp.html#a45a9819c2302c376dbf21c50052ae0ec" title=" " alt="" coords="336,5,462,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="495,21,463,21,463,16,495,16"/>
+<area shape="rect" id="Node000003" href="$main_8cpp.html#a4fe328e14db2e322932aec03caf0cba0" title=" " alt="" coords="103,5,288,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="321,21,288,21,288,16,321,16"/>
+<area shape="rect" id="Node000004" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,5,55,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="87,21,55,21,55,16,87,16"/>
+</map>

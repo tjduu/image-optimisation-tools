@@ -1,0 +1,22 @@
+# ninja log v5
+3	826	1711124603485440006	CMakeFiles/core_lib.dir/src/Slice.cpp.o	8a5e1e4febca66d7
+1	1066	1711124603725760031	CMakeFiles/core_lib.dir/src/Image.cpp.o	4375d1d0a5ef211
+2	1076	1711124603740797611	CMakeFiles/core_lib.dir/src/Projection.cpp.o	853ab2e62f99972
+1	1321	1711124603983123482	CMakeFiles/core_lib.dir/src/Filter.cpp.o	7d1200eb676588b3
+3	1351	1711124604012535901	tests/CMakeFiles/runTests.dir/FilterTests.cpp.o	57abcf27b0ec19ea
+828	1773	1711124604434604902	tests/CMakeFiles/runTests.dir/ImageTests.cpp.o	94e597f80293aebf
+2	1883	1711124604544970053	CMakeFiles/core_lib.dir/src/Volume.cpp.o	a57abb157a89f902
+1883	1961	1711124604630481000	libcore_lib.a	6f6ea958d69b7e83
+1077	2028	1711124604691703941	tests/CMakeFiles/runTests.dir/SliceTests.cpp.o	6cb0d8003986dfc3
+1066	2127	1711124604791690446	tests/CMakeFiles/runTests.dir/ProjectionTests.cpp.o	7de1b9e1834f7fb1
+1352	2241	1711124604904481146	tests/CMakeFiles/runTests.dir/VolumeTests.cpp.o	cbdebae04ae669b2
+1321	2342	1711124605006686954	tests/CMakeFiles/runTests.dir/SpeedTests.cpp.o	acd17198e06511b5
+1773	2590	1711124605253181641	tests/CMakeFiles/runTests.dir/test_main.cpp.o	99e377444bd3607e
+2590	2654	1711124605322091211	tests/runTests	5685d3ef19e9fff6
+7	696	1711124705172098379	CMakeFiles/advanced_programming_group_ziggurat.dir/src/Slice.cpp.o	fb23144376d13b57
+6	881	1711124705357947548	CMakeFiles/advanced_programming_group_ziggurat.dir/src/Projection.cpp.o	ef812c2932ff744f
+5	897	1711124705374665687	CMakeFiles/advanced_programming_group_ziggurat.dir/src/Image.cpp.o	2fc310dda0c15811
+8	968	1711124705445910056	CMakeFiles/advanced_programming_group_ziggurat.dir/src/main.cpp.o	de5f5def2a0f5f5e
+4	1017	1711124705494159209	CMakeFiles/advanced_programming_group_ziggurat.dir/src/Filter.cpp.o	bd9c09af441d84ce
+7	1274	1711124705751292580	CMakeFiles/advanced_programming_group_ziggurat.dir/src/Volume.cpp.o	873ef3f01bb1deae
+1274	1344	1711124705824429173	advanced_programming_group_ziggurat	f6bcc6cf3fc5d0f4

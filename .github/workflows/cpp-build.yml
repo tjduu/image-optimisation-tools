@@ -1,0 +1,23 @@
+name: C++ Build and Test
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Install G++
+        run: sudo apt-get update && sudo apt-get install -y g++ make
+
+      - name: Build
+        run: |
+          mkdir build
+          cd build
+          cmake ..
+          make
+
+      - name: Test
+        run: cd build/tests && ./runTests

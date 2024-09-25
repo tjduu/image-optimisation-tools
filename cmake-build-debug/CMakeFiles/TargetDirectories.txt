@@ -1,0 +1,7 @@
+/Users/xz4019/groupp2/23/advanced-programming-group-ziggurat/cmake-build-debug/CMakeFiles/core_lib.dir
+/Users/xz4019/groupp2/23/advanced-programming-group-ziggurat/cmake-build-debug/CMakeFiles/advanced_programming_group_ziggurat.dir
+/Users/xz4019/groupp2/23/advanced-programming-group-ziggurat/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xz4019/groupp2/23/advanced-programming-group-ziggurat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/xz4019/groupp2/23/advanced-programming-group-ziggurat/cmake-build-debug/tests/CMakeFiles/runTests.dir
+/Users/xz4019/groupp2/23/advanced-programming-group-ziggurat/cmake-build-debug/tests/CMakeFiles/edit_cache.dir
+/Users/xz4019/groupp2/23/advanced-programming-group-ziggurat/cmake-build-debug/tests/CMakeFiles/rebuild_cache.dir
